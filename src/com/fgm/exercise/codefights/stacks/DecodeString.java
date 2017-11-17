@@ -11,7 +11,6 @@ public class DecodeString {
         DecodeString dec = new DecodeString();
 
         System.out.println(dec.decodeString(decode));
-
     }
 
     public String decodeString(String s) {

@@ -1,10 +1,7 @@
 package com.fgm.exercise;
 
 import com.fgm.exercise.codefights.arrays.Arrays;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.TestInstance;
-import sun.jvm.hotspot.utilities.Assert;
+import org.junit.Test;
 
 /**
  * Created by fogd on 15.06.17.
